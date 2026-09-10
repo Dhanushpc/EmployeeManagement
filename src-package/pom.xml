@@ -12,9 +12,9 @@
     </parent>
 
     <groupId>com.example</groupId>
-    <artifactId>springdemoo</artifactId>
+    <artifactId>employeemanagement</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>springdemoo</name>
+    <name>employeemanagement</name>
 
     <properties>
         <java.version>17</java.version>
